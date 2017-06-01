@@ -1,0 +1,7 @@
+{
+	"node_js_custom_path": "/home/ra/.nvm/versions/node/v6.9.4/bin/node",
+	"npm_custom_path": "/home/ra/.nvm/versions/node/v6.9.4/bin/npm",
+	"completion_active_list": {
+		"jQuery": false,
+	}
+}

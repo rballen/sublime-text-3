@@ -1,0 +1,1 @@
+{ "cmd": ["meld", "$file1", "$file2"] }

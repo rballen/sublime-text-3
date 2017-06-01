@@ -1,0 +1,8 @@
+{
+	"PATH": [ "/home/ra/.nvm/versions/node/v6.9.4/bin"],
+	"commands": [
+		["semistandard-format", "--stdin", "--fix"]
+	],
+	"format_on_save": false,
+	    "log_errors": true,
+}

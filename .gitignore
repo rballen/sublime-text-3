@@ -1,0 +1,16 @@
+# Ignore everything...
+*
+# ... except preferences
+!.gitignore
+!*.sublime-snippet
+!*.sublime-settings
+!*.sublime-keymap
+!*.tmTheme
+!*.sublime-commands
+!README.md
+# folders
+!Projects/
+!ColorScheme-Favorites/
+!ColorScheme-Favorites/**
+!SideBarEnhancements/
+!SideBarEnhancements/**

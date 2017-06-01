@@ -1,0 +1,56 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			//application 1
+			{
+				"caption": "Gimp",
+				"id": "side-bar-files-open-with-gimp",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "gimp", // OSX
+									"extensions":"psd|png|jpg|jpeg",  //any file with these extensions
+									"args":[]
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			//separator
+			{"caption":"-"},
+
+			//application 2
+			{
+				"caption": "Inkscape",
+				"id": "side-bar-files-open-with-inkscape",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "inkscape", // WINNT
+									"extensions":"svg", //open all even folders
+									"args":[]
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			//application n
+			{
+				"caption": "Chrome",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "google-chrome",
+									"extensions":".*", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+
+			{"caption":"-"}
+		]
+	}
+]

@@ -1,0 +1,115 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+	"detect_slow_plugins": false,
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		".classpath",
+		".project",
+		".springBeans",
+		".tern-project",
+		".env_keys",
+		"*.eot",
+		"*.svg",
+		"*.ttf",
+		"*.woff",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.zip",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		"db/dump",
+		"stage",
+		"dist",
+		"build",
+		".settings",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".sass-cache",
+		"target",
+		".tmp",
+		"tmp",
+		"bower_components",
+		"lib.old",
+		"dict",
+		"lang"
+	],
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*/node_modules/*",
+		"*/bower_components/*",
+		"*/coverage/*",
+		"*/build/*"
+	],
+	"index_files": true,
+	"rulers":
+	[
+		80,
+		160
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"tabs_medium": true,
+	"theme": "Lanzhou.sublime-theme",
+	"theme_green": true,
+	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_separator": true,
+	"ui_sidebar_highlight_row": true,
+	"ui_wide_scrollbars": true,
+	"update_check": false,
+	"word_wrap": true,
+	"wrap_width": 140
+}

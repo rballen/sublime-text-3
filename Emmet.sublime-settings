@@ -1,0 +1,7 @@
+{
+  "preferences": {
+    "css.autoInsertVendorPrefixes": false
+  },
+
+"disable_tab_abbreviations_for_scopes": "text.haml, string"
+}
